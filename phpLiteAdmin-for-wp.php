@@ -8,7 +8,7 @@
  * Author:            Rediscov
  * Author URI:        https://rediscov.it
  * Text Domain:       phpliteadmin
- * Software used:     phpLiteAdmin
+ * Software used:     phpLiteAdmin 1.9.9-dev
  * Software URI:      https://www.phpliteadmin.org/
  */
 
